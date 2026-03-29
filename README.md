@@ -157,6 +157,7 @@ Page refresh is mainly used in Direct Query Mode.
 ## 📁 Resources  
 
 [resources](resources/)
+
 ---
 
 ## 🔗 Previous Project  
