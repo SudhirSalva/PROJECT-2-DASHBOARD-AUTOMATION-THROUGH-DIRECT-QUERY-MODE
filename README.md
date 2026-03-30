@@ -133,11 +133,11 @@ Page refresh is mainly used in Direct Query Mode.
 ### Existing Workflow  
 ![Existing Workflow](screenshots/Existing%20Workflow.png)
 
-### Final Workflow  
-![Final Workflow](screenshots/Final%20Workflow.png)
+### Final Workflow (Data Flow Diagram)
+![Final Workflow](screenshots/Updated%20Schema.png)
 
-### Updated Workflow (Power BI Service)  
-![Updated Workflow](screenshots/Updated%20Schema.png)
+### Final Workflow (Power BI Service)  
+![Updated Workflow](screenshots/Updated%20Workflow.png)
 
 ---
 
