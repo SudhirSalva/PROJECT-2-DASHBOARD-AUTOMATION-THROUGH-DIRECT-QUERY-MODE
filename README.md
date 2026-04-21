@@ -1,4 +1,4 @@
-# 📊 PROJECT 2: Dashboard Automation through Direct Query Mode  
+# 📊 Project 2: Real-Time vs Import Dashboard Analysis (Power BI + SQL Server)
 
 ---
 
